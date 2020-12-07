@@ -1,0 +1,9 @@
+Feature: Treasure Application Login
+
+Scenario: Homepage Login and Logout
+	Given the user is on Treasure landing page
+	When the user logs into application using username and password
+	And user clicks on Sign in button
+	Then treasure homepage is displayed and user clicks on logout button
+
+
