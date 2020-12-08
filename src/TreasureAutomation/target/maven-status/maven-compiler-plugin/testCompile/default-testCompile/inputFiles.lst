@@ -1,2 +1,4 @@
-D:\TreasureAutomation\src\test\java\testRunner\TreasureTestRunner.java
-D:\TreasureAutomation\src\test\java\stepDefinitions\LoginStepdefinition.java
+D:\Project\TreasureAutomation\src\test\java\stepDefinitions\LoginLogoutStepdefinition.java
+D:\Project\TreasureAutomation\src\test\java\testRunner\TreasureTestRunner.java
+D:\Project\TreasureAutomation\src\test\java\stepDefinitions\BaseStep.java
+D:\Project\TreasureAutomation\src\test\java\stepDefinitions\UploadFileStepDefinition.java

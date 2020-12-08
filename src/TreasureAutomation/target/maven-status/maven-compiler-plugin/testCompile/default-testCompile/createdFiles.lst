@@ -1,2 +1,5 @@
-stepDefinitions\LoginStepdefinition.class
+stepDefinitions\BaseStep.class
 testRunner\TreasureTestRunner.class
+stepDefinitions\LoginLogoutStepdefinition.class
+stepDefinitions\UploadFileStepDefinition.class
+stepDefinitions\UploadFileStepDefinition$MyStepDefinitions.class
